@@ -1,0 +1,9 @@
+{
+	"title": "SnakeDuel",
+	"type": "pdk",
+	"main": "SnakeDuel",
+	"id": "net.danielroggen.snakeduel",
+	"version": "1.0.0",
+	"vendor": "danielroggen",
+	"icon":     "iconorg.png" 
+}
